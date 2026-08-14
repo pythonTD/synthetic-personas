@@ -16,6 +16,15 @@
 #   automatically, newest first.
 #
 # EXAMPLES (delete these and add your own below):
-2026-08-01 | Publication | Paper on multilingual embodied agents accepted to IEEE VR 2027.
-2026-06-15 | NSF | Presented at NSF CISE panel on human-AI interaction and XR research.
-2026-05-20 | Student | Sagar Vankit's paper won Best Poster at CSCW Companion '25.
+2026-08-14 | Service | Serving as Publications Chair for IEEE ISMAR 2026.
+2026-08-27 | NSF | Served as a panelist for an NSF CISE - Adjunt review panel.
+2026-07-27 | NSF | Served as a panelist for an NSF Human-Centered Computing (HCC) review panel.
+2026-07-08 | NSF | Served as a panelist for an NSF K-12 STEM review panel.
+2026-04-22 | NSF | Served as a panelist for an NSF EDU Core Research (ECR) review panel.
+2026-01-21 | NSF | Served as a panelist for an NSF Science of Learning and Augmented Intelligence (SL) review panel.
+2026-08-14 | Publication | Three papers accepted to Computer Animation and Virtual Worlds (CAVW).
+2026-08-14 | Publication | Paper accepted for publication in Lecture Notes in Computer Science (LNCS).
+2026-08-14 | Publication | Poster accepted to ACM CHI.
+2026-08-14 | Student | Sagar Vankit passed his portfolio evaluation.
+2026-08-14 | Student | Sagar Vankit graduated with his Master of Science degree.
+2026-08-14 | Student | Jay Kadam graduated with his Master of Science degree.
