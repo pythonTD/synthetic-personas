@@ -16,12 +16,11 @@
 #   automatically, newest first.
 #
 # EXAMPLES (delete these and add your own below):
-2026-08-14 | Service | Serving as Publications Chair for IEEE ISMAR 2026.
-2026-08-27 | NSF | Served as a panelist for an NSF CISE - Adjunt review panel.
-2026-07-27 | NSF | Served as a panelist for an NSF Human-Centered Computing (HCC) review panel.
-2026-07-08 | NSF | Served as a panelist for an NSF K-12 STEM review panel.
-2026-04-22 | NSF | Served as a panelist for an NSF EDU Core Research (ECR) review panel.
-2026-01-21 | NSF | Served as a panelist for an NSF Science of Learning and Augmented Intelligence (SL) review panel.
+2026-08-21 | Service | Serving as Publications Chair for IEEE ISMAR 2026.
+2026-07-27 | NSF | Served as a panelist for an NSF HCC - Ad hoc review.
+2026-07-9/10 | NSF | Served as a panelist for an NSF K-12 STEM review panel.
+2026-03-23/24 | NSF | Served as a panelist for an NSF EDU Core Research (ECR) review panel.
+2026-01-21/22 | NSF | Served as a panelist for an NSF Science of Learning and Augmented Intelligence (SL) review panel.
 2026-04-14 | Publication | Three papers accepted to Computer Animation and Virtual Worlds (CAVW).
 2026-04-14 | Publication | Paper accepted for publication in Lecture Notes in Computer Science (LNCS).
 2026-02-22 | Publication | Poster accepted to ACM CHI.
