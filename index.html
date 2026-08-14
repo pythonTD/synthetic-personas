@@ -22,7 +22,6 @@
       <a href="index.html" aria-current="page">Home</a>
       <a href="research.html">Research</a>
       <a href="teaching.html">Teaching</a>
-      <a href="news.html">News</a>
     </nav>
   </div>
 </header>
@@ -62,10 +61,11 @@
 <section>
   <p class="eyebrow">Updates</p>
   <h2>Latest News</h2>
-  <ul class="news-list" id="news-preview">
-    <li style="color: var(--slate); padding: 18px 0;">Loading…</li>
-  </ul>
-  <a class="news-preview-link" href="news.html">See all news →</a>
+  <div class="news-feed">
+    <ul class="news-list news-list-compact" id="news-preview">
+      <li style="color: var(--slate); padding: 12px 0;">Loading…</li>
+    </ul>
+  </div>
 </section>
 
 <section>
@@ -138,7 +138,7 @@
 <script src="news.js"></script>
 <script>
   loadNews().then(items => {
-    renderNewsList(items.slice(0, 3), document.getElementById('news-preview'));
+    renderNewsList(items, document.getElementById('news-preview'));
   });
 </script>
 
