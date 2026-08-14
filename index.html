@@ -22,6 +22,7 @@
       <a href="index.html" aria-current="page">Home</a>
       <a href="research.html">Research</a>
       <a href="teaching.html">Teaching</a>
+      <a href="news.html">News</a>
     </nav>
   </div>
 </header>
@@ -57,6 +58,15 @@
     <circle class="node small" cx="1000" cy="13" r="2.4"/>
   </svg>
 </div>
+
+<section>
+  <p class="eyebrow">Updates</p>
+  <h2>Latest News</h2>
+  <ul class="news-list" id="news-preview">
+    <li style="color: var(--slate); padding: 18px 0;">Loading…</li>
+  </ul>
+  <a class="news-preview-link" href="news.html">See all news →</a>
+</section>
 
 <section>
   <p class="eyebrow">About</p>
@@ -124,6 +134,13 @@
     </div>
   </div>
 </footer>
+
+<script src="news.js"></script>
+<script>
+  loadNews().then(items => {
+    renderNewsList(items.slice(0, 3), document.getElementById('news-preview'));
+  });
+</script>
 
 </body>
 </html>

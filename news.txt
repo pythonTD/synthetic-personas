@@ -1,0 +1,21 @@
+# ============================================================
+# NEWS FILE — edit this to update the site's News section
+# ============================================================
+#
+# HOW TO ADD AN ITEM:
+# One line per news item, in this format:
+#
+#   YYYY-MM-DD | Category | Your news text here
+#
+# - Date must be YYYY-MM-DD (e.g. 2026-08-14) so items sort correctly.
+# - Category is a short label, e.g.: Publication, Award, NSF, Student, Talk, Grant
+# - Text can be as long as you want, just keep it on ONE line.
+# - Lines starting with # (like this one) are ignored — use them for notes.
+# - Blank lines are ignored too.
+# - Newest items can go anywhere in the file — the site sorts by date
+#   automatically, newest first.
+#
+# EXAMPLES (delete these and add your own below):
+2026-08-01 | Publication | Paper on multilingual embodied agents accepted to IEEE VR 2027.
+2026-06-15 | NSF | Presented at NSF CISE panel on human-AI interaction and XR research.
+2026-05-20 | Student | Sagar Vankit's paper won Best Poster at CSCW Companion '25.

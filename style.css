@@ -379,6 +379,51 @@ section h2 {
 }
 .course-offerings a:hover { border-color: var(--teal); color: var(--teal-dark); }
 
+/* ---------- News ---------- */
+
+.news-list { list-style: none; margin: 0; padding: 0; }
+
+.news-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 20px;
+  padding: 18px 0;
+  border-top: 1px solid var(--line);
+}
+.news-item:last-child { border-bottom: 1px solid var(--line); }
+
+.news-date {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--slate);
+  padding-top: 3px;
+}
+
+.news-tag {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--teal-dark);
+  border: 1px solid var(--teal);
+  padding: 2px 7px;
+  margin-bottom: 6px;
+}
+
+.news-body p { margin: 0; font-size: 0.95rem; }
+
+.news-preview-link {
+  display: inline-block;
+  margin-top: 1.2em;
+  font-family: var(--mono);
+  font-size: 0.82rem;
+}
+
+@media (max-width: 720px) {
+  .news-item { grid-template-columns: 1fr; gap: 4px; }
+}
+
 /* ---------- Footer ---------- */
 
 footer.site-footer {
