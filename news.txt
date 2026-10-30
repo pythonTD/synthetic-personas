@@ -16,6 +16,7 @@
 #   automatically, newest first.
 #
 # EXAMPLES (delete these and add your own below):
+2026-10-30 | Service | Serving as Poster Chair for MIG 2026.
 2026-08-21 | Service | Serving as Publications Chair for IEEE ISMAR 2026.
 2026-07-27 | NSF | Served as a panelist for an NSF HCC - Ad hoc review.
 2026-07-9/10 | NSF | Served as a panelist for an NSF K-12 STEM review panel.
